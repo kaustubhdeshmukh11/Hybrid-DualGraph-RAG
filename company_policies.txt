@@ -1,0 +1,54 @@
+===============================================================================
+                    NEXORA TECHNOLOGIES PVT. LTD.
+                    EMPLOYEE HANDBOOK & POLICIES
+                         Version 3.2 - 2024
+===============================================================================
+
+SECTION 1: LEAVE POLICY
+-----------------------
+1.1 Annual Leave: Employees are entitled to 18 days of paid annual leave per year.
+1.2 Sick Leave: 12 days of sick leave per year. Medical certificate required for 3+ consecutive days.
+1.3 Casual Leave: 6 days per year, cannot be carried forward to next year.
+1.4 Maternity Leave: 26 weeks paid leave for female employees.
+1.5 Paternity Leave: 2 weeks paid leave for male employees.
+1.6 Bereavement Leave: 5 days for immediate family members.
+
+SECTION 2: WORK FROM HOME POLICY
+--------------------------------
+2.1 Employees may work from home up to 3 days per week after completing 6 months.
+2.2 WFH requests must be submitted 24 hours in advance via the NexPortal system.
+2.3 Core hours (10 AM - 4 PM IST) must be observed even during remote work.
+2.4 Internet allowance of Rs. 1,500/month provided for regular WFH employees.
+
+SECTION 3: EXPENSE REIMBURSEMENT
+--------------------------------
+3.1 Travel: Economy class flights for domestic, business class for international (8+ hours).
+3.2 Daily meal allowance: Rs. 800 for domestic travel, $50 for international travel.
+3.3 Hotel booking limit: Rs. 5,000/night domestic, $200/night international.
+3.4 All expenses must be submitted within 15 days of incurring via ExpenseBot app.
+3.5 Receipts mandatory for claims above Rs. 500.
+
+SECTION 4: PERFORMANCE REVIEW
+-----------------------------
+4.1 Reviews conducted bi-annually in April and October.
+4.2 Rating scale: 1 (Needs Improvement) to 5 (Exceptional).
+4.3 Employees rated 4+ are eligible for the "Star Performer Bonus" of 15% salary.
+4.4 Two consecutive ratings below 2 may result in Performance Improvement Plan (PIP).
+
+SECTION 5: EQUIPMENT POLICY
+---------------------------
+5.1 Laptops provided: MacBook Pro 14" for developers, Dell Latitude for others.
+5.2 Monitor allowance: One 27" external monitor provided upon request.
+5.3 Equipment must be returned within 7 days of last working day.
+5.4 Damage due to negligence will result in 50% cost recovery from final settlement.
+
+SECTION 6: CONFIDENTIALITY
+--------------------------
+6.1 All project code is property of Nexora Technologies.
+6.2 NDA binding for 2 years post-employment.
+6.3 Client information sharing strictly prohibited outside project teams.
+6.4 Violation may result in immediate termination and legal action.
+
+===============================================================================
+For queries, contact HR at hr@nexora-tech.com or ext. 2200
+===============================================================================

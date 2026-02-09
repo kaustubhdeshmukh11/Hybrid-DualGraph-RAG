@@ -1,0 +1,14 @@
+langchain
+langchain-groq
+langchain-community
+langchain-huggingface
+faiss-cpu
+beautifulsoup4
+python-dotenv
+sentence-transformers
+ragas
+datasets
+pandas
+networkx
+matplotlib
+groq
