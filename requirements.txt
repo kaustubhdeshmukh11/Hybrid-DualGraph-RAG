@@ -12,3 +12,6 @@ pandas
 networkx
 matplotlib
 groq
+neo4j
+PyPDF2
+spacy

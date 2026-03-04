@@ -1,5 +1,6 @@
 # Environment variables (contains API keys)
 .env
+neo4j.txt
 
 # Python
 __pycache__/
